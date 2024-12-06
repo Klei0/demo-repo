@@ -10,3 +10,4 @@ If you reading this, your not blind. And that's quite nice innit ?
 ## Local Development
 
 1. Open index.html in you browser.
+2. Have fun
